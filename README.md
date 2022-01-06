@@ -2,6 +2,8 @@
 
 Example app on how to replace the wysiwyg with CKEditor with the media library.
 
+Take a look at the `./src/plugins/wysiwyg`
+
 ### `develop`
 
 Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
